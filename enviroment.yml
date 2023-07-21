@@ -1,0 +1,23 @@
+name: python_projects
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - invoke
+  - fs
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pathlib
+  - pip
+  - pyprojroot
+  - python=3.9
+  - seaborn
+  - scipy
+  - ca-certificates
+  - certifi
+  - openssl
+prefix: /Users/holamauricios/anaconda3/envs/python_projects
