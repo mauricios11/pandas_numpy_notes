@@ -20,4 +20,4 @@ dependencies:
   - ca-certificates
   - certifi
   - openssl
-prefix: /Users/holamauricios/anaconda3/envs/python_projects
+
